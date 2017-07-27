@@ -1,0 +1,83 @@
+.switchcar_wrap {
+            }
+
+            .switchcar_wrap .switch_cont li {
+                width: 94.5%;
+                height: 1.896rem;
+                margin: 0 auto;
+                background: #FFF;
+                box-shadow: 0 1px 4px 0 rgba(0,0,0,.1);
+                margin-top: .253333rem;
+                position: relative
+            }
+
+            .switchcar_wrap .switch_cont .logo {
+                position: absolute;
+                top: .533333rem;
+                left: .266666rem;
+                display: inline-block;
+                width: .912rem;
+                height: .912rem;
+                background-image: url(https://static.qichechaoren.com/upload/logo/FuTe.png);
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: 100%
+            }
+
+            .switchcar_wrap .switch_cont .car_name {
+                width: 50%;
+                display: inline-block;
+                height: 1.3rem;
+                font-size: .335999rem;
+                color: #2C2C2C;
+                padding-left: 1.573333rem;
+                margin-top: .533333rem
+            }
+
+            .switchcar_wrap .switch_cont .choosed {
+                display: inline-block;
+                width: 1.3rem;
+                height: .335999rem;
+                line-height: .335999rem;
+                text-align: center;
+                border: 1px solid #F8813E;
+                border-radius: .024rem;
+                font-size: .24rem;
+                color: #F8813E;
+                margin-left: .2rem
+            }
+
+            .switchcar_wrap .switch_cont .name_sec {
+                display: block;
+                font-size: .288rem;
+                color: #999;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                overflow: hidden
+            }
+
+            .switchcar_wrap .switch_cont .car_edit {
+                position: absolute;
+                top: .7rem;
+                right: .266666rem;
+                display: inline-block;
+                font-size: .335999rem;
+                color: #333;
+                background-image: url(https://sale.qccr.com/o2o/hudie/v2_8_1_ol/img/car/editCar.png);
+                background-size: .4rem auto;
+                background-repeat: no-repeat;
+                padding-left: .48rem;
+                background-position: left center
+            }
+
+            .addcar {
+                width: 33%;
+                height: .624rem;
+                line-height: .624rem;
+                border: 1px solid #999;
+                border-radius: 2.7px;
+                text-align: center;
+                margin: .8rem auto;
+                font-size: .373333rem;
+                color: #999
+            }

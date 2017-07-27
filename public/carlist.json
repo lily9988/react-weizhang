@@ -1,0 +1,97 @@
+{
+code: 0,
+info: [
+{
+uid: 108886206,
+limited: 1,
+carId: 5167227,
+upkeepUrl: "https://sale.qccr.com/appstatic/chezhuka/src/view/editCarMaintainInfo.shtml?carid=9342&usercarid=5167227",
+isDefault: 1,
+carName: "奔驰 C180L",
+plateNumber: "粤E578964",
+limitTip: "外地车限行",
+extAttr: [ ],
+certified: 0,
+remindingDescLink: "http://sale.qccr.com/washCar/limitline.shtml?u=D6FC0FE0126CC955632B05D99BCA2222&cityId=22&carId=5167227",
+limitInfoDesc: "杭州市限行3/7",
+carCategoryName: "奔驰 C180L",
+carPic: "https://static.qichechaoren.com/upload/logo/BenChi.png",
+limitRemindingDesc: "开启后自动提醒（20:00~21:00）",
+limitEnable: 1,
+modelId: 9342,
+limitReminding: 0,
+carNo: "粤E578964",
+categoryList: [
+{
+carCategoryType: 1,
+carCategoryName: "奔驰",
+carCategoryId: 1061
+},
+{
+carCategoryType: 2,
+carCategoryName: "C180L",
+carCategoryId: 9342
+}
+],
+carCategoryId: 9342,
+cateIds: "1061,9342"
+},
+{
+uid: 108886206,
+limited: 0,
+carId: 5170784,
+ruleCitys: [
+{
+cityId: 22,
+initial: "H",
+cityName: "杭州市",
+needCap: 0,
+params: {
+vcode: 6
+},
+isOpen: 1
+}
+],
+upkeepUrl: "https://sale.qccr.com/appstatic/chezhuka/src/view/editCarMaintainInfo.shtml?carid=32838&usercarid=5170784",
+city: "22",
+carType: "02",
+isDefault: 0,
+carName: "雪佛兰 乐骋",
+plateNumber: "浙A34566",
+vcode: "345566",
+extAttr: [ ],
+certified: 0,
+illegal: {
+totalNum: 0,
+totalScore: 0,
+totalFine: 0,
+records: [ ],
+totalMoney: 0
+},
+remindingDescLink: "http://sale.qccr.com/washCar/limitline.shtml?u=D6FC0FE0126CC955632B05D99BCA2222&cityId=22&carId=5170784",
+limitInfoDesc: "杭州市今日不限行",
+carCategoryName: "雪佛兰 乐骋",
+carPic: "https://static.qichechaoren.com/upload/logo/XueFoLan.png",
+limitRemindingDesc: "开启后自动提醒（20:00~21:00）",
+limitEnable: 1,
+modelId: 32838,
+limitReminding: 0,
+carNo: "浙A34566",
+categoryList: [
+{
+carCategoryType: 1,
+carCategoryName: "雪佛兰",
+carCategoryId: 1145
+},
+{
+carCategoryType: 2,
+carCategoryName: "乐骋",
+carCategoryId: 32838
+}
+],
+carCategoryId: 32838,
+cateIds: "1145,32838"
+}
+],
+msg: "成功"
+}
